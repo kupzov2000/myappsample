@@ -1,6 +1,8 @@
 # MyApp
 This is my app
 
+Here is a simple footnote[^1].
+
 ```
 git ```status
 git add
@@ -79,7 +81,6 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 
 :shipit:
 
-Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].
 
