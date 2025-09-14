@@ -52,3 +52,5 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 
 Эта строка будет перенесена\
 Она отобразиться снизу
+
+![КИСЯ МЯУ МЯУ](delete.jpg)
