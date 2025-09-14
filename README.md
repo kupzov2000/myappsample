@@ -7,4 +7,4 @@ git add
 git commit
 ```
 
-the background color is `#f66666`
+the background color is `#ffffff` `#ffffff`
