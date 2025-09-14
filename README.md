@@ -70,3 +70,7 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
    + Первый
      + Второй
        + И третий
+
+- [x] #735
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
