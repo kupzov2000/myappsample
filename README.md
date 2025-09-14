@@ -73,4 +73,4 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 
 - [x] #735
 - [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] \(Что это?) Add delight to the experience when all tasks are complete :tada:
