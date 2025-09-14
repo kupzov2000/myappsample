@@ -46,3 +46,9 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 (… more content…)
 
 [A link to that custom anchor](#my-custom-anchor-point)
+
+Эта строка не будет пересена
+Будет продолжаться сразу
+
+Эта строка будет перенесена\
+Она отобразиться снизу
