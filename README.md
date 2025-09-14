@@ -54,3 +54,13 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 Она отобразиться снизу
 
 ![КИСЯ МЯУ МЯУ](delete.jpg)
+
+СПИСКИ\
++ George Washington
++ John Adams
++ Thomas Jefferson
+
+Списки с нумерацией\
+1. George Washington
+2. John Adams
+3. Thomas Jefferson
